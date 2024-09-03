@@ -11,8 +11,7 @@
 <a href="mailto:adit.modhvadia@guardianrfid.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=adit-modhvadia&show_icons=true&hide_border=true" alt="Adit's GitHub Stats">
+<img src="https://github-readme-stats-adit-modhvadias-projects.vercel.app/api?username=adit-modhvadia&show_icons=true&hide_border=true" alt="Adit's GitHub Stats">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adit-modhvadia&show_icons=true)
